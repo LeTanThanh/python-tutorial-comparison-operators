@@ -48,3 +48,17 @@ if __name__ == "__main__":
 
   print("apple" > "orange")
   print("orange" > "apple")
+
+  # Greater Than or Equal To operator (>=)
+
+  """
+  left_value >= right_value
+  """
+
+  print(20 >= 10)
+  print(20 >= 20)
+  print(10 >= 20)
+
+  print("apple" >= "apple")
+  print("apple" >= "orange")
+  print("orange" >= "apple")
