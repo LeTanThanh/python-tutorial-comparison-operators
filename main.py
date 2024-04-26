@@ -20,3 +20,18 @@ if __name__ == "__main__":
   y = 20
   print(x < y)
   print(y < x)
+
+  # Less than or equal to operator (<=)
+
+  """
+  left_value <= right_value
+  """
+
+  print(20 <= 20)
+  print(10 <= 20)
+  print(30 <= 30)
+
+  x = 10
+  y = 20
+  print(x <= y)
+  print(y <= x)
