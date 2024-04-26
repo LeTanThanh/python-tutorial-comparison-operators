@@ -35,3 +35,16 @@ if __name__ == "__main__":
   y = 20
   print(x <= y)
   print(y <= x)
+
+  # Greater than operator (>)
+
+  """
+  left_value > right_value
+  """
+
+  print(20 > 10)
+  print(20 > 20)
+  print(10 > 20)
+
+  print("apple" > "orange")
+  print("orange" > "apple")
