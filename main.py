@@ -62,3 +62,15 @@ if __name__ == "__main__":
   print("apple" >= "apple")
   print("apple" >= "orange")
   print("orange" >= "apple")
+
+  # Equal To operator (==)
+
+  """
+  left_value == right_value
+  """
+
+  print(20 == 10)
+  print(20 == 20)
+
+  print("apple" == "apple")
+  print("aopple" == "orange")
